@@ -1,2 +1,2 @@
 # BrAnimes
-projeto teste apra a BrAnimes
+projeto teste para a BrAnimes
